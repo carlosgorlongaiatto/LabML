@@ -1,1 +1,5 @@
-### This is just a back up for Machine Learning projects.
+### Machine Learning Projects.
+
+In case of corruption (dammit!) start from scratch:
+
+`git clone https://<YourToken>@github.com/<YourUsername>/LabMAPD_A`
