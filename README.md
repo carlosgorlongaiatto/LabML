@@ -1,4 +1,4 @@
-### Machine Learning Projects.
+### Machine Learning Projects
 
 In case of corruption (dammit!) start from scratch:
 
